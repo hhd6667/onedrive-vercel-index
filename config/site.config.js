@@ -3,7 +3,7 @@
  * the title, used Google fonts, site icons, contact info, etc.
  */
 module.exports = {
-  // This is what we use to identify who you are when you are initialising the website for the first time.
+  这是我们在您首次初始化网站时用于识别您身份的信息。
   // Make sure this is exactly the same as the email address you use to sign into your Microsoft account.
   // You can also put this in your Vercel's environment variable 'NEXT_PUBLIC_USER_PRINCIPLE_NAME' if you worry about
   // your email being exposed in public.
@@ -53,11 +53,11 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
+      link: 'https://github.com/hhd6667/onedrive-vercel-index',
     },
     {
       name: 'Telegram',
-      link: 'https://t.me/realSpencerWoo',
+      link: 'https://t.me/hhd6667',
     },
   ],
 
